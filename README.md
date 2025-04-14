@@ -1,12 +1,24 @@
-### Proyecto de sistemas
+### ===== Proyecto de sistemas =====
 
-<table>
+<table border="5">
     <tr>
-        <th>Prueba</th>
-        <th>Trabajo</th>
+        <th>Miembro</th>
+        <th>Expone</th>
+        <th>Repo GitHub</th>
     </tr>
     <tr>
-        <td>casilla 1</td>
-        <td>casilla 2</td>
+        <td>Juan</td>
+        <td>Git</td>
+        <td><a href="https://github.com/zertinXIII">GitHub Juan</a></td>
+    </tr>
+    <tr>
+        <td>Miguel</td>
+        <td>GitHub</td>
+        <td><a href="https://github.com/Mikilix2006">GitHub Miguel<a></td>
+    </tr>
+    <tr>
+        <td>Noé</td>
+        <td>GitLab</td>
+        <td><a href="https://github.com/NoeRodriguez1721">GitHub Noé</a></td>
     </tr>
 </table>
