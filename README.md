@@ -1,4 +1,4 @@
-### ===== Proyecto de sistemas =====
+### ==== Proyecto de sistemas ====
 
 <table border="5">
     <tr>
